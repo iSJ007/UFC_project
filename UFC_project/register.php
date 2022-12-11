@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Registration system PHP and MySQL</title>
+  <title>UFCFantasyFight</title>
   <link rel="stylesheet" type="text/css" href="style/styles3.css">
 </head>
 <body>
